@@ -18,6 +18,7 @@ public class Test01 {
         System.out.println(d+f);
 
         System.out.println("增加了一行");
-
+        
+        System.out.println("在中央仓库增加了一行");
     }
 }
